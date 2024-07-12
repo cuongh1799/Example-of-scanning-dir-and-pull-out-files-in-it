@@ -1,0 +1,17 @@
+{
+  "Name": "Jinhsi",
+  "ClassMaterialType": "Elegy Tacet Core",
+  "BossMaterialType": "Sentinel\u0027s Dagger",
+  "CharBannerURL": "Not set",
+  "CharIconURL": "Not set",
+  "Material": {
+    "Howler Core T0": 52,
+    "Howler Core T1": 29,
+    "Howler Core T2": 61,
+    "Howler Core T3": 40,
+    "Waveworm Residue T0": 25,
+    "Waveworm Residue T1": 28,
+    "Waveworm Residue T2": 55,
+    "Waveworm Residue T3": 67
+  }
+}
