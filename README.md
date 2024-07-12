@@ -1,6 +1,7 @@
 # Quick example on scanning directory and get files in it
 
 The goal is to scan the directory, see if there's any `json` file, then `deserialize` those file into `Character` object.
+![image](https://github.com/user-attachments/assets/e38042b5-e114-400b-aecc-3ecc94ab9488)
 
 First we create a `DirectoryInfo` object.
 
